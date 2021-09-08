@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kavindu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kavindu Sithara</h1>
 <h2 align="center">I'm a Web Designer & Developer</h2>
 
 
@@ -14,6 +14,7 @@
 
 - 📫 How to reach me **kavinduks98@gmail.com**
 
+<br>
 
 ## 🙋‍♂️ Connect with me
 
