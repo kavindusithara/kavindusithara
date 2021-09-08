@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @kavindusithara
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Web development
-- 📫 Contact me - kavinduks98@gmail.com
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kavindu</h1>
+<h3 align="center">I'm a Web Designer & Developer</h3>
 
-<!---
-kavindusithara/kavindusithara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+ <div>
+  <a href="https://github.com/kavindusithara">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavindusithara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindusithara&layout=compact&langs_count=7&theme=algolia"/>
+</div>
