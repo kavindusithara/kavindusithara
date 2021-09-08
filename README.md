@@ -86,7 +86,7 @@
 
 ## 📊 My Github Stats
 <br>
- <div>
+ <div style="display: inline_block">
   <a href="https://github.com/kavindusithara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavindusithara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindusithara&layout=compact&langs_count=7&theme=algolia"/>
