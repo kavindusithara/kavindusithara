@@ -100,7 +100,7 @@
  
  <br>
  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kavindusithara&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
  
  ## ❤ Views and Followers
