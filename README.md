@@ -22,6 +22,7 @@
 
 <p align="center">
  <a href="https://www.facebook.com/kavindu.sithara.k/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://dev.to/kavindu"><img alt="Dev" title="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kavindu-sithara/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.reddit.com/user/kavinduksk"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
   <a href="https://discord.com/channels/@me"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
